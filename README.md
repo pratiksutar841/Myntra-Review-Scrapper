@@ -13,6 +13,20 @@ This project is a complete end-to-end Myntra review scraper and analyzer. It all
 
 ---
 
+## 📸 Screenshots
+
+Here is a glimpse of the application in action:
+
+![Screenshot 1](OutPut/image1.png)
+<br>
+![Screenshot 2](OutPut/image2.png)
+<br>
+![Screenshot 3](OutPut/image3.png)
+<br>
+![Screenshot 4](OutPut/image4.png)
+
+---
+
 ## 🛠️ Technology Stack
 - **Frontend & UI**: `Streamlit` (Interactive Python web framework)
 - **Data Scraping**: `Selenium`, `BeautifulSoup4`, `ChromeDriver-Binary`
